@@ -19,9 +19,9 @@ const GameWrapper1 = () => {
 const GameWrapper2 = ()=>{
   return (
     <div>
-      <div>
+      {/* <div>
         Connect Wallet
-      </div>
+      </div> */}
       <div className="h-screen flex justify-center align-middle">
         <div className="my-auto w-4/5">
         <div className="flex justify-center">
